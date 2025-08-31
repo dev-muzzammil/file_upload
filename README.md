@@ -24,8 +24,3 @@ It’s a simple but practical implementation of handling file storage in real-wo
 ---
 
 
-## 🔹 How to Run
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/dev-muzzammil/file_upload.git
-   cd file_upload
